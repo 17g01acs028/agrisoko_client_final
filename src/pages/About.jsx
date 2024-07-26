@@ -38,9 +38,53 @@ const About = () => {
                 About <span class="text-indigo-600">Our Company</span>
               </h2>
               <p class="text-gray-700">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Aliquid, commodi doloremque, fugiat illum magni minus nisi nulla
-                numquam obcaecati placeat quia, repellat tempore voluptatum.
+                Welcome to AgriSoko At AgriSoko, we are passionate about
+                revolutionizing the agricultural sector in Kenya. We aim to
+                create a sustainable and prosperous future for farmers by
+                leveraging modern technology, innovative practices, and
+                strategic market connections. Our mission is to empower
+                smallholder farmers, enhance their productivity, and ensure they
+                gain fair access to lucrative markets both locally and
+                internationally. Our Vision We envision a world where
+                agriculture thrives through innovation and collaboration. Our
+                goal is to transform the agricultural landscape, making it more
+                efficient, profitable, and sustainable for all stakeholders
+                involved. Our Mission Our mission is to: Empower Farmers:
+                Provide resources, training, and support to help farmers
+                maximize their yields and improve the quality of their produce.
+                Enhance Market Access: Connect farmers directly to buyers,
+                ensuring they receive fair prices for their hard work. Promote
+                Sustainability: Advocate for and implement sustainable farming
+                practices that protect the environment and ensure long-term
+                productivity. What We Do Farmer Support: We offer comprehensive
+                support to farmers, including access to high-quality seeds,
+                modern farming equipment, and expert agricultural advice.
+                Training and Education: Through workshops, seminars, and online
+                resources, we educate farmers on best practices in farming, pest
+                control, and crop management. Market Linkage: By connecting
+                farmers directly with buyers, we eliminate middlemen, ensuring
+                farmers get the best possible prices for their produce.
+                Technology Integration: We utilize the latest technology to
+                streamline farming processes, from planting to harvesting, and
+                provide real-time data to help farmers make informed decisions.
+                Sustainability Initiatives: Our commitment to sustainability
+                involves promoting organic farming, water conservation, and soil
+                health management practices. Why Choose AgriSoko? Expertise: Our
+                team consists of experienced agricultural professionals who are
+                dedicated to helping farmers succeed. Innovation: We stay ahead
+                of the curve by integrating cutting-edge technology into every
+                aspect of farming. Community: We believe in the power of
+                community and work closely with farmers, buyers, and other
+                stakeholders to build a robust agricultural network.
+                Transparency: Our transparent approach ensures that farmers
+                receive fair compensation for their produce and that buyers get
+                high-quality products. Join Us Join us in our mission to
+                transform agriculture in Kenya. Whether you're a farmer looking
+                for support or a buyer seeking quality produce, AgriSoko is your
+                trusted partner in agricultural success. Together, we can create
+                a thriving, sustainable agricultural ecosystem that benefits
+                everyone. For more information, get in touch with us or explore
+                our website to learn more about our services and initiatives.
               </p>
             </div>
           </div>

@@ -2,6 +2,7 @@ import Heders from "../components/Headers";
 import Footer from "../components/Footer";
 import { Link } from "react-router-dom";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
+import blog from "../images/agrisoko.jpg";
 const Blog = () => {
   return (
     <div className="w-full">
@@ -26,28 +27,79 @@ const Blog = () => {
         <div class="flex flex-wrap justify-between sm:mx-auto mx-11">
           <div class="md:w-full w-8/12 px-4 mb-8">
             <img
-              src="https://via.placeholder.com/1200x600"
+              src={blog}
               alt="Featured Image"
               class="w-full h-64 object-cover rounded"
             />
-            <h2 class="text-4xl font-bold mt-4 mb-2">My First Blog Post</h2>
+            <h2 class="text-4xl font-bold mt-4 mb-2">Our Company</h2>
             <p class="text-gray-700 mb-4">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat.
-            </p>
-            <p class="text-gray-700 mb-4">
-              Duis aute irure dolor in reprehenderit in voluptate velit esse
-              cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-              cupidatat non proident, sunt in culpa qui officia deserunt mollit
-              anim id est laborum.
-            </p>
-            <p class="text-gray-700 mb-4">
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae ab illo inventore veritatis et quasi architecto beatae vitae
-              dicta sunt explicabo.
+              <b>The Emerging Trend in Avocado Farming in Kenya</b>
+              <br />
+              In recent years, Kenya has witnessed a significant shift in its
+              agricultural landscape, with avocado farming emerging as a
+              prominent trend. This rise is fueled by a combination of factors,
+              including increasing global demand, favorable climatic conditions,
+              and the government's supportive policies. Growing Global Demand
+              The global appetite for avocados has surged, driven by their
+              reputation as a superfood rich in healthy fats, vitamins, and
+              minerals. This demand has opened up lucrative export opportunities
+              for Kenyan farmers, particularly to markets in Europe, the Middle
+              East, and Asia. The Hass variety, known for its rich flavor and
+              long shelf life, has become especially popular. Favorable Climatic
+              Conditions Kenya's diverse climatic regions offer ideal conditions
+              for avocado cultivation. Regions such as Murang'a, Kiambu, and
+              Nyeri have seen a boom in avocado farming due to their suitable
+              altitudes, well-distributed rainfall, and fertile soils. These
+              conditions allow for high yields and good-quality fruits, making
+              Kenyan avocados highly competitive in the global market.
+              Government Support and Investment Recognizing the potential of
+              avocado farming, the Kenyan government has implemented policies to
+              support this burgeoning sector.
+              <br />
+              <b>Initiatives include providing</b>
+              <br />
+              seedlings, offering training programs for farmers, and
+              facilitating access to international markets. Additionally,
+              investments in infrastructure, such as improved road networks and
+              cold storage facilities, have helped streamline the supply chain
+              and reduce post-harvest losses. Economic Impact The avocado boom
+              has had a transformative impact on local economies. Smallholder
+              farmers, who constitute the majority of avocado growers, have seen
+              significant income increases. This financial boost has led to
+              improved living standards, better access to education, and
+              enhanced community development. Moreover, the industry's growth
+              has created numerous job opportunities in farming, processing, and
+              export logistics. Sustainable Practices Sustainability is at the
+              heart of Kenya's avocado farming trend. Farmers are increasingly
+              adopting eco-friendly practices such as organic farming,
+              integrated pest management, and water conservation techniques.
+              These practices not only ensure the long-term viability of avocado
+              farming but also enhance the fruits' appeal to environmentally
+              conscious consumers. Future Prospects The future looks promising
+              for Kenya's avocado industry. Continued investment in research and
+              development, coupled with strategic marketing efforts, can further
+              solidify Kenya's position as a leading avocado exporter. As more
+              farmers embrace this green gold, avocado farming is set to play a
+              pivotal role in Kenya's agricultural and economic landscape. In
+              conclusion, the rise of avocado farming in Kenya is a testament to
+              the country's ability to adapt and thrive in a dynamic global
+              market. With its favorable conditions, supportive policies, and
+              commitment to sustainability, Kenya is poised to become a
+              powerhouse in the avocado industry, bringing prosperity to its
+              farmers and delight to avocado lovers worldwide. Welcome to
+              AgriSoko At AgriSoko, we are passionate about revolutionizing the
+              agricultural sector in Kenya. We aim to create a sustainable and
+              prosperous future for farmers by leveraging modern technology,
+              innovative practices, and strategic market connections. Our
+              mission is to empower smallholder farmers, enhance their
+              productivity, and ensure they gain fair access to lucrative
+              markets both locally and internationally. Our Vision We envision a
+              world where agriculture thrives through innovation and
+              collaboration. Our goal is to transform the agricultural
+              landscape, making it more efficient, profitable, and sustainable
+              for all stakeholders involved. Our Mission Our mission is to:
+              Empower Farmers: Provide resources, training, and support to help
+              farmers max…
             </p>
           </div>
           <div class="md:w-full w-4/12 px-4 mb-8">
@@ -57,11 +109,6 @@ const Blog = () => {
                 <li>
                   <a href="#" class="text-gray-700 hover:text-gray-900">
                     Technology
-                  </a>
-                </li>
-                <li>
-                  <a href="#" class="text-gray-700 hover:text-gray-900">
-                    Travel
                   </a>
                 </li>
                 <li>
