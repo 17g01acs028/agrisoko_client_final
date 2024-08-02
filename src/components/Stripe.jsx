@@ -19,6 +19,7 @@ const Stripe = ({ price, orderId }) => {
     const create_payment = async () => {
         try {
             const { data } = await axios.post('https://agrisoko-backend.vercel.app/api/order/create-payment', { price }, { withCredentials: true })
+            console.log(data,price);
             setClientSecret(data.clientSecret)
         } catch (error) {
             console.log(error.response.data)
