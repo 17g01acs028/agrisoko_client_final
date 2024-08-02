@@ -21,7 +21,7 @@ const Footer = () => {
                         <img className='w-[190px] h-[70x]' src={logo} alt="logo" />
                         <ul className='flex flex-col gap-2 text-slate-600'>
                             <li>Address : Nairobi , Kenya</li>
-                            <li>Phone : 07XXXXXXXX</li>
+                            <li>Phone : +254798682605</li>
                             <li>Email : agriSoko@gmail.com</li>
                         </ul>
                     </div>

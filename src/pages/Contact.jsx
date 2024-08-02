@@ -108,8 +108,8 @@ const About = () => {
                     </div>
                     <div class="ml-6 grow">
                       <p class="mb-2 font-bold">Technical support</p>
-                      <p class="text-neutral-500 ">support@example.com</p>
-                      <p class="text-neutral-500 ">+1 234-567-89</p>
+                      <p class="text-neutral-500 ">support@gmail.com</p>
+                      <p class="text-neutral-500 ">+254798682605</p>
                     </div>
                   </div>
                 </div>
@@ -135,8 +135,8 @@ const About = () => {
                     </div>
                     <div class="ml-6 grow">
                       <p class="mb-2 font-bold ">Sales questions</p>
-                      <p class="text-neutral-500 ">sales@example.com</p>
-                      <p class="text-neutral-500 ">+1 234-567-89</p>
+                      <p class="text-neutral-500 ">sales@gmail.com</p>
+                      <p class="text-neutral-500 ">+254798682605</p>
                     </div>
                   </div>
                 </div>
@@ -162,8 +162,8 @@ const About = () => {
                     </div>
                     <div class="ml-6 grow">
                       <p class="mb-2 font-bold ">Press</p>
-                      <p class="text-neutral-500 ">press@example.com</p>
-                      <p class="text-neutral-500 ">+1 234-567-89</p>
+                      <p class="text-neutral-500 ">press@gmail.com</p>
+                      <p class="text-neutral-500 ">+254798682605</p>
                     </div>
                   </div>
                 </div>
@@ -189,8 +189,8 @@ const About = () => {
                     </div>
                     <div class="ml-6 grow">
                       <p class="mb-2 font-bold">Bug report</p>
-                      <p class="text-neutral-500 ">bugs@example.com</p>
-                      <p class="text-neutral-500">+1 234-567-89</p>
+                      <p class="text-neutral-500 ">bugs@gmail.com</p>
+                      <p class="text-neutral-500">+254798682605</p>
                     </div>
                   </div>
                 </div>
