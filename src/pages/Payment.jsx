@@ -4,6 +4,7 @@ import Footer from '../components/Footer'
 import Stripe from '../components/Stripe'
 import { useLocation } from 'react-router-dom'
 import mpesa from "../images/mpesa.png";
+import stripe from "../images/payment/stripe.png"
 const Payment = () => {
   const {
     state: { price, items, orderId },
@@ -26,7 +27,7 @@ const Payment = () => {
                   >
                     <div className="flex flex-col gap-[3px] justify-center items-center">
                       <img
-                        src="http://localhost:3000/images/payment/stripe.png"
+                        src={stripe}
                         alt="stripe"
                       />
                       <span className="text-slate-600">Stripe</span>
